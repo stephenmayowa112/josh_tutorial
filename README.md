@@ -1,6 +1,6 @@
 # Josh Tutorials
 
-An introductory web development project for learning the basics of HTML and CSS.
+An introductory web development project for Joshua to learn the basics of HTML, CSS and Javascript
 
 ## What This Project Shows
 
