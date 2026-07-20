@@ -5,3 +5,26 @@
 .wonder{
     background-color: aqua;
 }
+
+.form1{
+    /* background-color: rgb(216, 192, 192); */
+    /* gradient background */
+    background: linear-gradient(to right, rgb(160, 166, 175), rgb(129, 129, 100));
+    padding: 40px;
+    margin:50px;
+    align-items: center;
+    border: 10px solid #ccc;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.submit{
+    background-color: rgb(129, 129, 100);
+    color: white;
+    padding: 10px 20px;
+    margin: 20px 0;
+    border: none;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
