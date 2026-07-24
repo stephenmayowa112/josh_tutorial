@@ -28,3 +28,12 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+table{
+    border: 1px solid black;
+    width: 50%;
+    margin-top: 40px;
+    padding: 10px;
+    row-gap: 10px;
+    background-color: rgb(193, 195, 207);
+}
